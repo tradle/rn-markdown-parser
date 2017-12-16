@@ -1,0 +1,27 @@
+{
+  "name": "rn-markdown-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "markdown parser for react-native using the great [marked](https://github.com/chjj/marked) parser",
+  "dependencies": {
+    "marked": "^0.3.6",
+    "xtend": "^4.0.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react",
+    "markdown",
+    "marked",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tradle/rn-markdown-parser"
+  }
+}
